@@ -28,7 +28,6 @@ Este proyecto utiliza la metodología Agile Data Science, permitiendo iteracione
 
 - `/data`: Datos utilizados en el proyecto.
 - `/scripts`: Códigos fuente de Python utilizados para el análisis y modelado.
-- `/notebooks`: Jupyter Notebooks con análisis detallado y visualizaciones.
 - `/docs`: Documentación adicional y reportes de resultados.
 
 ## Contacto
